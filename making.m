@@ -103,7 +103,7 @@ Ib = I_rated_est;
 Ra=R_phase;
 
 
-%%8.15 고정자 input%%%%%5
+%%8.15 고정자 input%%%%%5 updateds
 
 
 
